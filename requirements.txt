@@ -1,0 +1,7 @@
+Flask==3.0.3
+llama-cpp-python==0.2.90
+faster-whisper==1.0.3
+torch==2.4.1
+torchaudio==2.4.1
+pyaudio==0.2.14
+soundfile==0.12.1
